@@ -1,0 +1,15 @@
+#main-container{
+  place-items: center center;
+}
+
+#sign-in-form{
+  max-width: 330px;
+}
+.form-control:focus{
+  z-index: 5;
+}
+.bootstrap-logo{
+  width: 72px;
+  height: 62px;
+  border-radius: 15px;
+} 

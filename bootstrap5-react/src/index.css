@@ -1,0 +1,8 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  display: grid;
+  background: #a0d2eb;
+  min-height: 100vh;
+}
+
